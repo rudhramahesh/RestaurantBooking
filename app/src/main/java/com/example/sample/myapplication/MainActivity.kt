@@ -37,5 +37,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         // nice code due
+        // git commit this one
     }
 }
